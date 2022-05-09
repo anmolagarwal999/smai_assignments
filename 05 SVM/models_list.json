@@ -1,0 +1,226 @@
+[
+  {
+    "kernel-type": "linear",
+    "C": 0.001,
+    "train-acc": 1.0,
+    "test-acc": 0.9091,
+    "train-f1": 1.0,
+    "test-f1": 0.9074667394767924
+  },
+  {
+    "kernel-type": "linear",
+    "C": 0.01,
+    "train-acc": 1.0,
+    "test-acc": 0.9091,
+    "train-f1": 1.0,
+    "test-f1": 0.9074667394767924
+  },
+  {
+    "kernel-type": "linear",
+    "C": 0.1,
+    "train-acc": 1.0,
+    "test-acc": 0.9091,
+    "train-f1": 1.0,
+    "test-f1": 0.9074667394767924
+  },
+  {
+    "kernel-type": "linear",
+    "C": 1.0,
+    "train-acc": 1.0,
+    "test-acc": 0.9091,
+    "train-f1": 1.0,
+    "test-f1": 0.9074667394767924
+  },
+  {
+    "kernel-type": "linear",
+    "C": 10.0,
+    "train-acc": 1.0,
+    "test-acc": 0.9091,
+    "train-f1": 1.0,
+    "test-f1": 0.9074667394767924
+  },
+  {
+    "kernel-type": "linear",
+    "C": 1e-07,
+    "train-acc": 0.9353703703703704,
+    "test-acc": 0.9322,
+    "train-f1": 0.9346004891033614,
+    "test-f1": 0.9312446185735819
+  },
+  {
+    "kernel-type": "linear",
+    "C": 100000,
+    "train-acc": 1.0,
+    "test-acc": 0.9091,
+    "train-f1": 1.0,
+    "test-f1": 0.9074667394767924
+  },
+  {
+    "kernel-type": "linear",
+    "C": 1000,
+    "train-acc": 1.0,
+    "test-acc": 0.9091,
+    "train-f1": 1.0,
+    "test-f1": 0.9074667394767924
+  },
+  {
+    "kernel-type": "linear",
+    "C": 100.0,
+    "train-acc": 1.0,
+    "test-acc": 0.9091,
+    "train-f1": 1.0,
+    "test-f1": 0.9074667394767924
+  },
+  {
+    "kernel-type": "rbf",
+    "C": 0.01,
+    "gamma": 0.1,
+    "train-acc": 0.11234567901234568,
+    "test-acc": 0.1135,
+    "train-f1": 0.020199778024417317,
+    "test-f1": 0.0203861697350696
+  },
+  {
+    "kernel-type": "rbf",
+    "C": 0.01,
+    "gamma": 100.0,
+    "train-acc": 0.11234567901234568,
+    "test-acc": 0.1135,
+    "train-f1": 0.020199778024417317,
+    "test-f1": 0.0203861697350696
+  },
+  {
+    "kernel-type": "rbf",
+    "C": 0.01,
+    "gamma": "auto",
+    "train-acc": 0.11234567901234568,
+    "test-acc": 0.1135,
+    "train-f1": 0.020199778024417317,
+    "test-f1": 0.0203861697350696
+  },
+  {
+    "kernel-type": "rbf",
+    "C": 0.01,
+    "gamma": "scale",
+    "train-acc": 0.8662962962962963,
+    "test-acc": 0.8732,
+    "train-f1": 0.8645243738424867,
+    "test-f1": 0.871176460179052
+  },
+  {
+    "kernel-type": "rbf",
+    "C": 100.0,
+    "gamma": 0.1,
+    "train-acc": 1.0,
+    "test-acc": 0.1135,
+    "train-f1": 1.0,
+    "test-f1": 0.0203861697350696
+  },
+  {
+    "kernel-type": "rbf",
+    "C": 100.0,
+    "gamma": 100.0,
+    "train-acc": 1.0,
+    "test-acc": 0.1135,
+    "train-f1": 1.0,
+    "test-f1": 0.0203861697350696
+  },
+  {
+    "kernel-type": "rbf",
+    "C": 100.0,
+    "gamma": "auto",
+    "train-acc": 1.0,
+    "test-acc": 0.1135,
+    "train-f1": 1.0,
+    "test-f1": 0.0203861697350696
+  },
+  {
+    "kernel-type": "rbf",
+    "C": 100.0,
+    "gamma": "scale",
+    "train-acc": 1.0,
+    "test-acc": 0.9741,
+    "train-f1": 1.0,
+    "test-f1": 0.9738538745732329
+  },
+  {
+    "kernel-type": "poly",
+    "C": 0.001,
+    "gamma": 0.1,
+    "degree": 2,
+    "train-acc": 1.0,
+    "test-acc": 0.9699,
+    "train-f1": 1.0,
+    "test-f1": 0.9695768310396156
+  },
+  {
+    "kernel-type": "poly",
+    "C": 0.001,
+    "gamma": 0.1,
+    "degree": 3,
+    "train-acc": 1.0,
+    "test-acc": 0.9666,
+    "train-f1": 1.0,
+    "test-f1": 0.966299966985769
+  },
+  {
+    "kernel-type": "poly",
+    "C": 0.001,
+    "gamma": 100.0,
+    "degree": 2,
+    "train-acc": 1.0,
+    "test-acc": 0.9699,
+    "train-f1": 1.0,
+    "test-f1": 0.9695768310396156
+  },
+  {
+    "kernel-type": "poly",
+    "C": 0.001,
+    "gamma": 100.0,
+    "degree": 3,
+    "train-acc": 1.0,
+    "test-acc": 0.9666,
+    "train-f1": 1.0,
+    "test-f1": 0.966299966985769
+  },
+  {
+    "kernel-type": "poly",
+    "C": 100.0,
+    "gamma": 0.1,
+    "degree": 2,
+    "train-acc": 1.0,
+    "test-acc": 0.9699,
+    "train-f1": 1.0,
+    "test-f1": 0.9695768310396156
+  },
+  {
+    "kernel-type": "poly",
+    "C": 100.0,
+    "gamma": 0.1,
+    "degree": 3,
+    "train-acc": 1.0,
+    "test-acc": 0.9666,
+    "train-f1": 1.0,
+    "test-f1": 0.966299966985769
+  },
+  {
+    "kernel-type": "poly",
+    "C": 100.0,
+    "gamma": 100.0,
+    "degree": 2,
+    "train-acc": 1.0,
+    "test-acc": 0.9699,
+    "train-f1": 1.0,
+    "test-f1": 0.9695768310396156
+  },
+  {
+    "kernel-type": "poly",
+    "C": 100.0,
+    "gamma": 100.0,
+    "degree": 3,
+    "train-acc": 1.0,
+    "test-acc": 0.9666,
+    "train-f1": 1.0,
+    "test-f1": 0.966299966985769
+  }
+]
